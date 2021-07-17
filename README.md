@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="4sHoUIJrLaDKmwWa5kFSEwT0-mis8YfGqGSgd0PhuIY" />
 
 - 👋 Hi, I’m @josephbenofficial
 - 👀 I’m interested in Data Science and Machine Learning.
