@@ -1,7 +1,6 @@
 
-- 👋 Hi, I’m @josephbenofficial
+- 👋 Hi, I’m Joseph
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning more about these topics.
 
 <!---
 josephbenofficial/josephbenofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
